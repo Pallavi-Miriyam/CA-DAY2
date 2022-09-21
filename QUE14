@@ -31,4 +31,4 @@ counter=counter+1
 print("CYCLE VALUE IS:",counter)
 ins=int(input("Enter the No.of instructions:"))
 performance_measure =ins/counter
-print(“performance measure is:” performance_measure)
+print(“performance measure is:”,performance_measure)
